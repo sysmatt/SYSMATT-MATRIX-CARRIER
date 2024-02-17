@@ -15,7 +15,9 @@ Four ESP outputs are voltage level translated in total to allow you to create la
 
 There is also a fuse.  Because house fires are no joke. 
 
-I will add more here when I have time.  
+I will add more here when I have time.  There are videos on the PHOTOS-VIDEOS directory.  Also on youtube:
+
+[![Video](https://img.youtube.com/vi/TLycWf7s_p8/0.jpg)](https://www.youtube.com/watch?v=TLycWf7s_p8)
 
 ![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_221227138.jpg)
 
