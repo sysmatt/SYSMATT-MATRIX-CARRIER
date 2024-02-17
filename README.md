@@ -17,6 +17,6 @@ There is also a fuse.  Because house fires are no joke.
 
 I will add more here when I have time.  
 
-![Iamge of the 16x16 board](PHOTOS-VIDEOS/PHOTOS-VIDEOS/PXL_20240217_221227138.jpg)
+![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_221227138.jpg)
 
 
