@@ -17,7 +17,12 @@ There is also a fuse.  Because house fires are no joke.
 
 I will add more here when I have time.  There are videos on the PHOTOS-VIDEOS directory.  Also on youtube:
 
+Video link to YouTube:
 [![Video](https://img.youtube.com/vi/TLycWf7s_p8/0.jpg)](https://www.youtube.com/watch?v=TLycWf7s_p8)
+https://youtube.com/shorts/75FGs6rpeio
+https://youtube.com/shorts/8wDof0Con4Y
+https://youtube.com/shorts/0d_V_7tXByc
+
 
 ![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_221227138.jpg)
 
