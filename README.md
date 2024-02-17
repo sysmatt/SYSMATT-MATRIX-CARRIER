@@ -19,4 +19,18 @@ I will add more here when I have time.
 
 ![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_221227138.jpg)
 
+![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_221219593.jpg)
 
+![Iamge of the 16x16 boards, unassembled](PHOTOS-VIDEOS/PXL_20240217_221121255.MP.jpg)
+
+![Iamge of the 16x16 boards, It's a SANDWICH](PHOTOS-VIDEOS/PXL_20240217_221234068.MP.jpg)
+
+![Iamge of the 32x8 board, unassembled](PHOTOS-VIDEOS/PXL_20240217_221006217.MP.jpg)
+
+![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_220327427.jpg)
+![Iamge of the 16x16 board](PHOTOS-VIDEOS/PXL_20240217_220323878.jpg)
+
+I just use a couplle dots of silicone to hold the sandwitch together 
+
+![Iamge of the 16x16 DUMB board, Being glued up](PHOTOS-VIDEOS/PXL_20240217_220257627.jpg)
+![Iamge of the 16x16 DUMB board, Being glued up](PHOTOS-VIDEOS/PXL_20240217_220244552.jpg)
