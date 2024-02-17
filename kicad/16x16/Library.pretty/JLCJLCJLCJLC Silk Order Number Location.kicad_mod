@@ -1,0 +1,20 @@
+(footprint "JLCJLCJLCJLC Silk Order Number Location" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 180 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 89222cfd-edca-4add-beea-a39af6c90ed6)
+  )
+  (fp_text value "JLCJLCJLCJLC Silk Order Number Location" (at 0 1 180 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0a51809b-de03-42fb-82cd-e97fc7438e83)
+  )
+  (fp_text user "JLCJLCJLCJLC" (at 0 0 180 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 973d1a2c-01fc-4c8e-bc6f-9c27aca1749b)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 180 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7e4c649c-e023-4a0e-a512-84d64b8e6019)
+  )
+)
