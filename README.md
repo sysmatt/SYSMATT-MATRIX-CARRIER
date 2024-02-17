@@ -19,8 +19,11 @@ I will add more here when I have time.  There are videos on the PHOTOS-VIDEOS di
 
 Video link to YouTube:
 [![Video](https://img.youtube.com/vi/TLycWf7s_p8/0.jpg)](https://www.youtube.com/watch?v=TLycWf7s_p8)
-https://youtube.com/shorts/75FGs6rpeio
+
+https://youtube.com/shorts/75FGs6rpeio1
+
 https://youtube.com/shorts/8wDof0Con4Y
+
 https://youtube.com/shorts/0d_V_7tXByc
 
 
