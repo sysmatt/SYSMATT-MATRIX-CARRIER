@@ -1,8 +1,14 @@
 # SYSMATT-MATRIX-CARRIER
-## A all-pcb combined ESB32 based WS2812B matrix carrier 
+## An all-pcb combined ESB32 based WS2812B matrix carrier and diffuser.
+
+###... It's a sandwich. 
 
 These cheap pre-made WS2812B flexible matrix boards are plentiful and availible on Amazon/Aliexpress/etc.  
+
+![Labeled photo of PCBs](PHOTOS-VIDEOS/Labeled-PXL_20240217_221121255.MP.jpg)
+
 They look great through a 1mm FR4 PCB diffuser. 
+
 In this repo is the carrier board I created to control them with the common 30pin or 38pin ESP32 WROOM modules.  
 
 It supports WLED easily, and even has suport for audio reactive WLED using the common 6-pin INMP441 digital microphone modules.
