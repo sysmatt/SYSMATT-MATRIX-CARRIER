@@ -21,6 +21,8 @@ Four ESP outputs are voltage level translated in total to allow you to create la
 
 There is also a fuse.  Because house fires are no joke. 
 
+Designed using through hole because I have a pile of parts (Im a parts hoarder) ... And the are super easy for most people. 
+
 I will add more here when I have time.  There are videos on the PHOTOS-VIDEOS directory.  Also on youtube:
 
 Video link to YouTube:
