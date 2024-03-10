@@ -1,7 +1,9 @@
 # SYSMATT-MATRIX-CARRIER
 ## An all-pcb combined ESB32 based WS2812B matrix carrier and diffuser.
 
-###... It's a sandwich. 
+### ... It's a sandwich. 
+
+If you end up building these, please tag me on social media... @SYSMATT on X/Twitter - TY!
 
 These cheap pre-made WS2812B flexible matrix boards are plentiful and availible on Amazon/Aliexpress/etc.  
 
